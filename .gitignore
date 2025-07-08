@@ -1,1 +1,6 @@
+# Vim swap files
+*.swp
+*.swo
 
+# Nano backup files
+*~
