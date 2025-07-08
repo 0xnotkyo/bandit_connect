@@ -45,7 +45,7 @@ banditX@bandit.labs.overthewire.org -p 2220
 ## ⚙️ Requirements
 
 - Bash
-- `sshpass` library installed
+- `sshpass`
   
   To install on Debian/Ubuntu/Kali:
 
