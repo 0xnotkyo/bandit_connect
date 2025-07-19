@@ -25,6 +25,6 @@ fi
 
 echo -e "\n${yellowColour}[+]${endColour}${blueColour} Connecting to Bandit ${lvl}...${endColour}"
 
-sshpass -p "${pass}" ssh -t bandit${lvl}@bandit.labs.overthewire.org -p 2220 'export TERM=xterm; exec bash -l'
+sshpass -p "${pass}" ssh -t -o StrictHostKeyChecking=no bandit${lvl}@bandit.labs.overthewire.org -p 2220 'export TERM=xterm; exec bash -l'
 
 echo -e "\n${redColour}Thanks for playing, $(whoami)${endColour}\n"
