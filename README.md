@@ -59,6 +59,6 @@ This script is intended for **educational purposes only**, specifically to assis
 
 ---
 
-**Made with ❤️ by [0xnotkyo](https://github.com/0xnotkyo)** 
+**Made with ♥ by [0xnotkyo](https://github.com/0xnotkyo)** 
 
 <p align="center"><a href="https://github.com/0xnotkyo/twt/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&colorA=3b4b74&colorB=b7c9f2"/></a></p>
